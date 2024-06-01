@@ -4,9 +4,9 @@ Before starting of with the code of your labs, It is recemmend you to create a v
 
 Creating a virtual environment is simple enough with VS Code or Anaconda, but if you are using a terminal, you can use the following commands:
 1. Install virtualenv using pip:<br>
-```<bash>pip install virtualenv```
+```<python>pip install virtualenv```
 2. Create a virtual environment:<br>
-```<bash>python<version> -m venv <virtual-environment-name>```
+```<python>python<version> -m venv <virtual-environment-name>```
 
 3. Activate the virtual environment:<br>
    For Linux:<br>
